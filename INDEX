@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Autoxpat Hope Project | Help My Family Secure a New Home</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+<header>
+
+<nav class="navbar">
+
+<div class="logo">
+AUTOXPAT HOPE PROJECT
+</div>
+
+<ul>
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#story">My Story</a></li>
+
+<li><a href="#gallery">Gallery</a></li>
+
+<li><a href="#donate">Donate</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<section class="hero" id="home">
+
+<div class="overlay">
+
+<h1>
+Help My Family Secure A New Home
+</h1>
+
+<p>
+
+A Father's Hope.
+A Family's Future.
+Every Act Of Kindness Matters.
+
+</p>
+
+<div class="goal">
+
+Target:
+<strong>₦9,500,000</strong>
+
+</div>
+
+<a href="PASTE_YOUR_WHYDONATE_LINK_HERE"
+class="btn">
+
+Donate Now
+
+</a>
+
+</div>
+
+</section>
+
+<section id="story">
+
+<div class="container">
+
+<h2>
+
+My Story
+
+</h2>
+
+<p>
+
+My name is <strong>Olayinka Akeem</strong>,
+popularly known as
+<strong>Autoxpat.</strong>
+
+I am a Television Presenter,
+Radio Personality,
+Road Safety Advocate,
+Content Creator
+and Founder of
+Autoxpat.
+
+For years I have dedicated my life to educating people on road safety,
+automobile awareness,
+and community development.
+
+Today,
+I humbly ask for your support.
+
+My landlord has asked my family to vacate our apartment.
+
+I need urgent assistance to secure another home,
+relocate my family,
+and keep my children's education uninterrupted.
+
+Every donation,
+every share,
+and every prayer
+brings hope to my family.
+
+Thank you for standing with us.
+
+</p>
+
+</div>
+
+</section>
+<section id="gallery">
+
+<div class="container">
+
+<h2>Gallery</h2>
+
+<div class="gallery">
+
+<img src="assets/family1.jpg" alt="Family Photo">
+
+<img src="assets/poster1.jpg" alt="Campaign Poster">
+
+<img src="assets/tv1.jpg" alt="Television Program">
+
+<img src="assets/tv2.jpg" alt="Road Safety Program">
+
+<img src="assets/logo.png" alt="Autoxpat Logo">
+
+<img src="assets/family2.jpg" alt="Family">
+
+</div>
+
+</div>
+
+</section>
+
+<section id="donate">
+
+<div class="container">
+
+<h2>Support This Campaign</h2>
+
+<div class="donation-box">
+
+<h3>Campaign Goal</h3>
+
+<h1>₦9,500,000</h1>
+
+<p>
+
+Every contribution brings my family closer to securing a new home.
+
+</p>
+
+<a href="PASTE_YOUR_WHYDONATE_LINK_HERE"
+class="btn">
+
+Donate via WhyDonate
+
+</a>
+
+</div>
+
+<div class="bank">
+
+<h3>Bank Transfer</h3>
+
+<p>
+
+<strong>Zenith Bank</strong><br>
+
+Account Name:
+Olayinka Akeem<br>
+
+Account Number:
+4293544797
+
+</p>
+
+</div>
+
+<div class="bank">
+
+<h3>OPay</h3>
+
+<p>
+
+Account Name:
+Olayinka Akeem<br>
+
+Account Number:
+8093555758
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<div class="container">
+
+<h2>Contact</h2>
+
+<p>
+
+📞 +234 805 465 7134
+
+</p>
+
+<p>
+
+📧 autoxpatpro@gmail.com
+
+</p>
+
+<p>
+
+Facebook | Instagram | TikTok | X
+
+<br>
+
+<strong>@Autoxpat</strong>
+
+</p>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Autoxpat Hope Project
+
+<br>
+
+Thank you for your kindness and support.
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
